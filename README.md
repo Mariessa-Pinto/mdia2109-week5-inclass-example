@@ -1,4 +1,4 @@
-# Test in different browsers see it scan trhoguh 
+# Test in different browsers see it scan through 
 
 ```
 npm run test:e2e
